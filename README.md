@@ -1,3 +1,3 @@
 # github-repo-2
 
-add main comment
+add resolved feature-3
