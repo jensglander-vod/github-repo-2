@@ -7,6 +7,6 @@ add resolved feature-3
 
 add feature-4 (improved from fork)
 
-add feature-5 (from gh ui)
+add feature-5 (from gh ui) + corrected from local fork repo
 
 add footer
