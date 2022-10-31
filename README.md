@@ -8,6 +8,6 @@ add resolved feature-3
 add feature-4 (improved from fork)
 
 add feature-x
-add feature-y
+add feature-y (corrected from local fork)
 
 add footer
